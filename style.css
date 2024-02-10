@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:#E0FFFF ;
+    border-radius:20px;
+    margin: 20px;
+   
+}
+header img {
+    margin: 20px;
+}
+.g{
+    background-color: aquamarine;
+    color: #00BFFF;
+}
+ footer p{
+    background-color: cyan;
+}
+nav a{
+    background-color: aquamarine;
+    border-radius: 20px;
+    padding:5px;
+    margin:50px;
+    text-decoration: none;
+    color: black;
+}
+.t{
+    background-color: lightseagreen;
+}
+.l{
+    color: blue;
+}
